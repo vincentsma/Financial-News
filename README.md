@@ -50,4 +50,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Contact**
 
-We welcome pull requests and suggestions on this repository. For any questions, feedback, or if you'd like to collaborate, feel free to reach out at any time. Contact me at: [vsm220003@utdallas.edu](mailto:vsm220003@utdallas.edu)
+Pull requests and suggestions are welcome on this repository. For any questions, feedback, or if you'd like to collaborate, feel free to reach out at any time. Contact me at: [vsm220003@utdallas.edu](mailto:vsm220003@utdallas.edu)
